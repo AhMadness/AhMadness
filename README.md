@@ -29,10 +29,16 @@ bilingual interfaces, multiple rooms, synchronized role and voting workflows,
 host authorization, persistence, and browser tests. The public repository is a
 sanitized project overview.
 
+### [Imposter](https://github.com/AhMadness/Imposter)
+
+An open-source PyQt6 party game with English and Arabic interfaces, private
+phone-based role reveal through QR codes, elimination workflows, configurable
+content, and a companion category and word-pack manager.
+
 ### [Pokemon Type Matchup Studio](https://github.com/AhMadness/pyPokemon)
 
-A Python desktop application for exploring offensive and defensive type
-matchups, combination rankings, and multi-type coverage.
+An open-source Python desktop application for exploring modern offensive and
+defensive type matchups, combination rankings, and multi-type coverage.
 
 ## Core Stack
 
