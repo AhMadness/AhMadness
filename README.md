@@ -40,6 +40,11 @@ content, and a companion category and word-pack manager.
 An open-source Python desktop application for exploring modern offensive and
 defensive type matchups, combination rankings, and multi-type coverage.
 
+### [Batch Crop](https://github.com/AhMadness/pyCrop)
+
+An open-source PyQt6 batch image cropper with interactive selection handles,
+live preview, recursive file discovery, and guarded output controls.
+
 ## Core Stack
 
 `Python` `SQL` `PyQt6` `FastAPI` `Django` `Flask` `PostgreSQL`
